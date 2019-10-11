@@ -1,0 +1,20 @@
+{
+    "name": "zimutech/chinese_calendar",
+    "description": "create json data for Indesign Calendar making, include chinese lunar calendar data.",
+    "type": "library",
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zhao Yan",
+            "email": "sieg@zimutech.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Zimutech\\ChineseCalendar": "src"
+        }
+    }
+}
