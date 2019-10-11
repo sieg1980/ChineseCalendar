@@ -1,0 +1,1 @@
+将以上两个脚本和程序生成的数据脚本复制到Indesign的用户脚本目录中，修改makeCalendar.jsx中的year并运行脚本。
