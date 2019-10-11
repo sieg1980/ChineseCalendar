@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Zimutech\\ChineseCalendar": "src"
+            "Zimutech\\ChineseCalendar\\": "src/"
         }
     }
 }
